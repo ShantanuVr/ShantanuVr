@@ -226,11 +226,13 @@ mindmap
 
 <div align="center">
 
-I'm always excited to collaborate on:
-- 🤖 **AI-driven automation & testing tools**
-- ⛓️ **Blockchain & Web3 projects**
-- 📈 **Trading algorithms & financial analysis**
-- 🌱 **Sustainability & carbon credit systems**
+**I'm always excited to collaborate on:**
+
+🤖 AI-driven automation & testing tools · ⛓️ Blockchain & Web3 projects
+
+📈 Trading algorithms & financial analysis · 🌱 Sustainability & carbon credit systems
+
+<br/>
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vichare.shantanu@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shantanuvr/)
