@@ -172,13 +172,20 @@ I'm a **Lead QA Engineer** with **10.5+ years** of experience transforming how t
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShantanuVr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShantanuVr&layout=compact&langs_count=8&theme=tokyonight"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShantanuVr&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
+<!-- GitHub Activity Graph - This one works! -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShantanuVr&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="100%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShantanuVr&theme=tokyo-night&hide_border=false" alt="Activity Graph"/>
+<br/>
+
+<!-- GitHub Profile Summary Cards - Alternative that's more reliable -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShantanuVr&theme=tokyonight" alt="Profile Details" width="100%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShantanuVr&theme=tokyonight" height="180em"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShantanuVr&theme=tokyonight&utcOffset=5.5" height="180em"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShantanuVr&theme=tokyonight" height="180em"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShantanuVr&theme=tokyonight" height="180em"/>
 
 </div>
 
