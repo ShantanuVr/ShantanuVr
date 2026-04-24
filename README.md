@@ -138,7 +138,60 @@ I'm a **Lead QA Engineer** with **10.5+ years** of experience transforming how t
 
 ---
 
-## 🌟 Featured Projects
+## � Career Showcase — QA Automation & Security Engineering
+
+> **Open-source work reflecting my 10+ years in QA engineering, test automation, and security research.** These are the projects I point recruiters and hiring managers to — production-grade, inspectable, and built to outlive a single sprint.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 [Context-Aware Agentic Test Generator](https://github.com/ShantanuVr/context-aware-agentic-test-generator)
+
+*Autonomous QA agent for VS Code / Cursor that treats your PR as the prompt.*
+
+- 🧠 Three-agent pipeline: **Git diff → AST Context Graph → LLM orchestrator over MCP**
+- 🪢 Maps every changed symbol to its real consumers via `ts-morph` — no hallucinated imports
+- 🧪 Emits grounded **Jest / Vitest / Playwright / Cypress** tests in a human-review pane
+- 🔌 Model-agnostic (OpenAI, Anthropic, local `llama.cpp`) via Model Context Protocol
+- 🛡️ Strict JSON contract + human-in-the-loop — zero silent writes
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-412991?style=flat-square&logo=openai&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### 🩺 [Playwright Self-Healing Framework](https://github.com/ShantanuVr/playwright-self-healing-framework)
+
+*Playwright E2E suite that rewrites broken selectors on the fly — no LLMs required.*
+
+- 🧬 Captures a **semantic fingerprint** per element (text, label, ARIA, siblings, classes, attrs)
+- ⚖️ Scores live DOM candidates with **six weighted signals** (text 0.45 → id 0.05)
+- 🔁 Emits both CSS & XPath, re-captures after each heal — future-proof across refactors
+- 🔍 Fully deterministic: zero LLMs, zero API keys, every decision is reproducible
+- 📜 JSON audit trail per heal — CI- and compliance-friendly
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
+![Zero LLMs](https://img.shields.io/badge/Zero_LLMs-success?style=flat-square)
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+**🚧 More QA & security engineering projects landing soon — ⭐ [follow on GitHub](https://github.com/ShantanuVr) to catch the next drop.**
+
+</div>
+
+---
+
+## 🌱 Side Projects & Domain Explorations
 
 <div align="center">
 
