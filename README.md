@@ -2,14 +2,14 @@
 
 # Hey there! I'm Shantanu Vichare 👋
 
-### 🚀 Lead QA Engineer | 🤖 AI/ML Enthusiast | ⛓️ Blockchain Builder | 📈 Quant Trading Explorer
+### 🚀 Lead QA Engineer @ PowerSchool | 🤖 Agentic AI & Self-Healing Automation | 🛡️ DevSecOps | ⛓️📈 Blockchain & Quant Explorer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shantanuvr/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShantanuVr)
 [![Blog](https://img.shields.io/badge/Security_Blogs-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://www.quickheal.com/blogs/?s=Shantanu+Vichare)
 [![Website](https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](http://www.shantanuvr.com)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=10%2B+Years+of+Engineering+Excellence;Architecting+AI-Driven+QA+Ecosystems;Building+Blockchain+%26+Carbon+Credit+Systems;Trading+Algorithms+%26+Quant+Strategies;From+Malware+Research+to+ML+%26+AI" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=640&lines=~11+Years+of+QA+Engineering+Excellence;Architecting+Agentic+AI+Test+Platforms;Self-Healing+Automation+at+Cloud+Scale;DevSecOps+%26+Zero-P0+SaaS+Quality;From+Malware+Research+to+Applied+AI" alt="Typing SVG" />
 
 </div>
 
@@ -19,14 +19,15 @@
 
 > **"Breaking software to make it unbreakable, automating everything to innovate faster."**
 
-I'm a **Lead QA Engineer** with **10.5+ years** of experience transforming how teams approach quality. My journey spans from **malware research trenches** at Quick Heal to **building enterprise-grade test automation ecosystems** at Powerschool.
+I'm a **Lead QA Engineer** with **~11 years** of experience transforming how teams approach quality. My journey spans from the **malware research trenches** at Quick Heal to **architecting agentic AI test platforms** at PowerSchool — where I own QA strategy for **Schoology** with **zero P0 incidents over 4+ years**.
 
 🔥 **What makes me different?**
-- 🤖 **Early AI Adopter** - Pioneering Agentic AI integration in SDLC since ChatGPT's launch
-- 🏗️ **Framework Architect** - Built 4+ automation frameworks (Codeception, WDIO, Playwright, Robot)
-- 🔐 **Security DNA** - 3 years of malware analysis & vulnerability testing experience
-- ⛓️ **Blockchain Builder** - Creating carbon credit systems with Solidity & Web3
-- 📊 **Quant Curious** - Developing trading algorithms with SMC & ICT concepts
+- 🤖 **Agentic QA Pioneer** - Built a multi-agent test platform (GitHub Copilot Background Agents + Playwright / Browser / Jira MCPs) that cut manual QA effort by **80%**
+- 🧠 **AI Context Graph Architect** - Anchors LLM agents to live OpenAPI contracts → **90%+ first-pass test accuracy, zero hallucinated steps**
+- 🏗️ **Framework Builder** - Shipped 4+ automation frameworks (Playwright, WebdriverIO, Codeception, Robot)
+- 🛡️ **DevSecOps in CI/CD** - OWASP ZAP, Burp Suite, SAST/DAST & dependency gates across Bamboo, GitLab & GitHub Actions
+- 🔐 **Security DNA** - 3 years of malware research & vulnerability testing (Quick Heal + FireEye / Mandiant)
+- ⛓️📈 **Side Explorer** - Blockchain carbon credits (Solidity / Web3) and quant trading (SMC / ICT)
 
 ---
 
@@ -34,9 +35,19 @@ I'm a **Lead QA Engineer** with **10.5+ years** of experience transforming how t
 
 | 🎓 Degree | 🏛️ Institution | 📅 Year |
 |-----------|----------------|---------|
-| **M.Sc. Machine Learning & AI** | Liverpool John Moores University | 🔜 2027 |
-| **Executive PGDM ML & AI** | IIIT Bangalore | 🔜 2026 |
-| **B.E. Information Technology** | Mumbai University | ✅ 2015 |
+| **M.Sc. Machine Learning & AI** | Liverpool John Moores University, England | 🔜 2025 – 2027 |
+| **PG Diploma, AI & ML** | IIIT Bangalore | 🔜 2025 – 2026 |
+| **B.E. Information Technology** | Shah & Anchor Kutchhi Engineering College, Mumbai | ✅ 2012 – 2015 |
+
+---
+
+## 🏅 Certifications
+
+| 🎓 Credential | 🏛️ Issuer | 📅 Year |
+|---------------|-----------|---------|
+| **CopilotXcelerate: AI-Powered Python for Data Science** | Upgrad | 2023 |
+| **Certified Ethical Hacker (CEH)** | Simplilearn | 2019 |
+| **Oracle Certified Expert, Database SQL** | Oracle | 2016 |
 
 ---
 
@@ -57,21 +68,23 @@ I'm a **Lead QA Engineer** with **10.5+ years** of experience transforming how t
 <tr>
 <td width="50%">
 
-**🎯 At Powerschool**
-- 📈 Led QA for **Schoology** with 1600+ automated scenarios
-- 🤖 Pioneered **Agentic AI** adoption in SDLC
-- 🛠️ Built **3 automation frameworks** from scratch
-- ⏱️ Saved **40+ hours/week** with release automation tools
-- 👨‍🏫 Trained teams on AI-driven testing approaches
+**🎯 At PowerSchool**
+- 🏆 **Zero P0 incidents** across 4+ years leading Schoology QA strategy
+- 🤖 Architected a **multi-agent test platform** — Copilot Background Agents + Playwright / Browser / Jira MCPs
+- 🧠 Shipped an **AI Context Graph** → 90%+ first-pass test accuracy, zero hallucinated steps
+- 📈 API regression coverage **55% → 95%**; **80% QA effort reduction** across the tribe
+- ⚡ Cut regression runtime **~70%** with containerized, parallel cloud-native runners
+- 👨‍🏫 Mentor **20+ engineers across 6 Agile squads**
 
 </td>
 <td width="50%">
 
-**🔥 At FireEye**
-- 🔒 Performed **vulnerability testing** for all product releases
-- 🏗️ Built **E2E test frameworks** for security products
-- 🚦 Was part of **Go/No-Go** release decision team
-- 🔄 Managed **CI/CD pipelines** on Jenkins
+**🔥 At FireEye (Mandiant)**
+- 🏗️ Built UI + security test frameworks from scratch for **Linux, Windows & Mac** endpoint products
+- 📉 Cut **release escape defects ~35%** release-over-release
+- ⚡ Shortened regression cycles **~40%** with Python + Nosetests E2E suites across 8+ releases
+- 🚦 Part of the **Go/No-Go release decision** team; ran CI/CD on Jenkins
+- 👨‍🏫 Uplifted 15+ incoming engineers on Python, Selenium & Robot Framework practices
 
 </td>
 </tr>
@@ -79,19 +92,20 @@ I'm a **Lead QA Engineer** with **10.5+ years** of experience transforming how t
 <td width="50%">
 
 **🛡️ At Quick Heal**
-- 🔬 Researched & classified **malware threats**
+- 🔬 Automation-first malware triage — reclaimed **~12 analyst-hours/week** for deeper threat research
+- 🚨 Led **50+ customer escalations & RCAs**, feeding insights into product detection roadmap
+- 🛠️ Shipped **2 threat-detection capabilities** into Quick Heal products (millions of endpoints)
 - ✍️ Published **security blogs** read by thousands
-- ⚙️ Automated processes saving **50+ hours/week**
-- 🎯 Handled **enterprise client escalations**
 
 </td>
 <td width="50%">
 
 **🚀 Innovation Highlights**
-- 🧠 Built AI-assisted Playwright automation
-- 📊 Created decision trace Context Graphs for Agents
-- 🔄 Developed Record & Play test converters
-- 🤖 Integrated GitHub Copilot as code reviewer
+- 🧠 AI Context Graph adopted by **3+ product teams** as the self-healing QA backbone
+- ♿ **Specialist QA agents** for accessibility (WCAG 2.1), i18n & security NFR validation
+- 📊 MERN-stack release cockpit → checklist time **~4 hrs → ~15 mins**
+- 🔄 Record-&-Play → Playwright test converters
+- 🛡️ Reusable **DevSecOps blueprint** — OWASP ZAP + Burp + SAST gates, caught 30+ vulns pre-prod
 
 </td>
 </tr>
@@ -117,17 +131,28 @@ I'm a **Lead QA Engineer** with **10.5+ years** of experience transforming how t
 ![Codeception](https://img.shields.io/badge/Codeception-F05033?style=for-the-badge&logo=codeception&logoColor=white)
 ![WebdriverIO](https://img.shields.io/badge/WebdriverIO-EA5906?style=for-the-badge&logo=webdriverio&logoColor=white)
 
-### AI & ML
+### AI & Agent Tooling
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Anthropic_Claude-191919?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![MCP](https://img.shields.io/badge/Model_Context_Protocol-0A0A0A?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG_%2B_Multi--Agent-FF6F00?style=for-the-badge)
 
-### DevOps & Tools
+### Security & DevSecOps
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![SAST/DAST](https://img.shields.io/badge/SAST_%2F_DAST-2E7D32?style=for-the-badge)
+![CEH](https://img.shields.io/badge/Certified_Ethical_Hacker-B71C1C?style=for-the-badge)
+
+### DevOps & Cloud
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Bamboo](https://img.shields.io/badge/Bamboo-0052CC?style=for-the-badge&logo=bamboo&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### Blockchain & Web3
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
