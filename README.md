@@ -35,7 +35,7 @@ I'm a **Lead QA Engineer** with **~11 years** of experience transforming how tea
 
 | 🎓 Degree | 🏛️ Institution | 📅 Year |
 |-----------|----------------|---------|
-| **M.Sc. Machine Learning & AI** | Liverpool John Moores University, England | 🔜 2025 – 2027 |
+| **M.Sc. Machine Learning & AI** | Liverpool John Moores University, London | 🔜 2025 – 2027 |
 | **PG Diploma, AI & ML** | IIIT Bangalore | 🔜 2025 – 2026 |
 | **B.E. Information Technology** | Shah & Anchor Kutchhi Engineering College, Mumbai | ✅ 2012 – 2015 |
 
